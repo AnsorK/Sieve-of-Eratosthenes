@@ -4,7 +4,7 @@ import java.util.Random;
 /**
 * Sieve of Eratosthenes 
 * @author Ansor Kasimov
-* @version 1.0
+* @version 2.0
 */
 
 public class Algorithm {

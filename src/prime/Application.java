@@ -2,6 +2,12 @@ package prime;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+* Test out algorithm 
+* @author Ansor Kasimov
+* @version 2.0
+*/
+
 public class Application {
 
 	public static void main(String[] args) {
